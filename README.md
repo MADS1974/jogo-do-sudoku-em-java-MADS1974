@@ -39,7 +39,7 @@ Adicionado um menu no terminal para facilitar a interação com o jogo. As opç�
 - Remover um número do tabuleiro.
 - Visualizar o estado atual do jogo.
 - Verificar o status do jogo (se está completo ou contém erros).
-- Limpar o tabuleiro.
+- Limpar jogo.
 - Finalizar o jogo.
 
 ### Validação de Entrada
