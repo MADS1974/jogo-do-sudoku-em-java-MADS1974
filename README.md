@@ -112,9 +112,8 @@ Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias no 
 
 ---
 
-Toda implementação deste código foi
 
-### Toda implementação deste código foi feita seguindo boas práticas de programação orientada a objetos e seguindo as orientações do Expert <www.dio.me>
+### Toda implementação deste código foi feita seguindo boas práticas de programação orientada a objetos e seguindo as orientações do Expert www.dio.me
 
 - [José Luiz Abreu Cardoso Junior](https://www.linkedin.com/in/jos%C3%A9-luiz-abreu-cardoso-junior-18483872/)
 
